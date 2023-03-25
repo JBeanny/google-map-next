@@ -1,0 +1,19 @@
+{
+  "name": "google-map-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.17.0",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
+    "next": "13.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
